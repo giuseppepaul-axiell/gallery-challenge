@@ -16,7 +16,7 @@ We have put together a couple of simple wireframes to be used as a guide to what
 
 ### Homepage Grid
 
-The homepage should show a grid of the galleries images.
+The homepage should show a grid of the gallery images.
 
 ![Gallery List](img/wireframe1.png "Gallery list wireframe")
 
@@ -59,7 +59,7 @@ Feel free to use [Create React App](https://github.com/facebook/create-react-app
 
 ## Delivery
 
-It should be possible to delivery the project as a static site / bundle, so you could zip it up and send it to us but it'd be nice to see your project hosted. Something like [Github Pages](https://pages.github.com/) would be great!
+It should be possible to deliver the project as a static site / bundle, so you could zip it up and send it to us but it'd be nice to see your project hosted. Something like [Github Pages](https://pages.github.com/) would be great!
 
 
 ## Assessment
