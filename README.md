@@ -49,7 +49,20 @@ Feel free to be creative and add anything you like!
 
 ## API
 
-//TODO
+### List all media
+
+http://axielldevtest.eastus2.cloudapp.azure.com:3000/api/media
+
+You can offset the result like so: `/api/media?offset=50`
+
+### Single media item
+
+`/api/media/<id of the media item>`
+
+**Example:**
+
+http://axielldevtest.eastus2.cloudapp.azure.com:3000/api/media/5d5d59ff4431ba89d176b574
+
 
 ## Libraries and frameworks
 
