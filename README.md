@@ -7,7 +7,7 @@ We've been asked to create a new website for one of of our art gallery clients. 
 
 The site should be built using the latest best practices, needs to be accessible and should use our API.
 
-Preferably it will be built using React as that is our FE framework of choice at Axiell.
+At Axiell our FE framework of choice is React, but **please feel free to use whatever tools / libraries you'd like**. Try to demonstrate your creative skills as well as your technical knowledge.
 
 
 ## Wireframes
@@ -36,11 +36,11 @@ Clicking an image should give a detail view with additional details about the ar
 
 Some ideas for additions that could really make your project stand out:
 
-* Pagination
+* An attractive design / finish
 * Image search / filtering / tags
 * Routing
 * Animations
-* An attractive design / finish
+* Pagination
 
 Feel free to be creative and add anything you like!
 
@@ -66,13 +66,13 @@ http://axielldevtest.eastus2.cloudapp.azure.com:3000/api/media/5d5d59ff4431ba89d
 
 ## Libraries and frameworks
 
-As previously mentioned, we'd love you to use React as that is our FE framework of choice at Axiell, however we're happy for you to use another framework or vanilla JS should you wish.
+As previously mentioned, React is our FE framework of choice at Axiell so if you have React experience then show us your stuff! **If not then that's okay too, we're happy to teach you! Just use whatever you're comfortable with**.
 
 Feel free to use [Create React App](https://github.com/facebook/create-react-app), [Bootstrap](https://getbootstrap.com) and any other packages / libraries / tools that you like.
 
 ## Delivery
 
-It should be possible to deliver the project as a static site / bundle, so you could zip it up and send it to us but it'd be nice to see your project hosted. Something like [Github Pages](https://pages.github.com/) would be great!
+It should be possible to deliver the project as a static site / bundle, so you could zip it up and send it to us but it'd be nice to see your project hosted.
 
 
 ## Assessment
